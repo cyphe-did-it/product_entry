@@ -92,4 +92,5 @@ main.py
 * **web app** - I think instead of using tkinter, it is also possible to implement this in a we application and use frameworks like  `django`.
 
 ---
+
 > Author: **`cyphe-did-it`**
