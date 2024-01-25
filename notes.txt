@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Create Virtual Environment.
 
 1. open terminal or cmd
@@ -15,3 +16,27 @@ git init
 
 
 
+=======
+Create Virtual Environment.
+
+1. open terminal or cmd
+2. go to directory where you want to create Virtual Environment
+3. run:
+    python -m venv projectname
+4. activate virtual environment:
+    projectname\Scripts\activate
+5. to deactivate:
+    deactivate
+
+
+Download Necessary Packages.
+
+
+don't forget to update the visualization and data everytime 
+insert
+update
+remove 
+are called 
+
+
+>>>>>>> 827a3b7c1efbcce4396bb1fd2279080a6f3459ee
